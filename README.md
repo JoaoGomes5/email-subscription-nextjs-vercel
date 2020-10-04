@@ -22,6 +22,7 @@ $ git clone https://github.com/JoaoGomes5/email-subscription-nextjs-vercel
 # Access the repository
 $ cd youtube-nextjs-design-system
 
+
 # Install the dependencies
 $ yarn install
 
