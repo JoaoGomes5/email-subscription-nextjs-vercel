@@ -1,22 +1,13 @@
 <br>
 <div align="center">
-  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/Nextjs-ChakraUI.png" />
+  <h2> Email Subscription </h2>
 
   <h4 align="center">
-     Next.js, declarative UI and design systems applied to ReactJS. Access the tutorial <a href="https://www.youtube.com/watch?v=6TEo2AxW-oQ">here</a>
+     Next.js, surverless side. application built in the rocketseat tutorial
+      <a href="https://www.youtube.com/watch?v=Cz55Jmhfw84">here</a>
   </h4>
 </div>
 
----
-
-<p align="center">
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/eugustavo/youtube-nextjs-design-system" />
-  <img alt="Github License" src="https://img.shields.io/github/license/eugustavo/youtube-nextjs-design-system" />
-</p>
-
-<p align="center">
-  <img alt="Rocketseat" src="./.github/assets/login-rocketseat.png">
-</p>
 
 
 ## 🚀 Getting started
@@ -26,7 +17,7 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+$ git clone https://github.com/JoaoGomes5/email-subscription-nextjs-vercel
 
 # Access the repository
 $ cd youtube-nextjs-design-system
