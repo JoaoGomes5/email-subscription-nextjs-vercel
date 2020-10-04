@@ -3,7 +3,7 @@
   <h2> Email Subscription </h2>
 
   <h4 align="center">
-     Next.js, surverless side. application built in the rocketseat tutorial
+     Next.js, server side rendering. application built in the rocketseat tutorial
       <a href="https://www.youtube.com/watch?v=Cz55Jmhfw84">here</a>
   </h4>
 </div>
